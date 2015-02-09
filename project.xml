@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projectXML numproject="10" numexperiment="4">
+	
+	<project id="1">
+		<title>CLIENT: CHEER JEWELRY</title>
+		<info>website / planning / design / coding / PV3D</info>
+		<link><font face="Arial" size="10" color="#2BB6AD" LETTERSPACING="0" ><a target="_blank" href="http://www.cheer-jewelry.com">visit the site</a></font></link>
+		<hint>WEBSITE</hint>
+	</project>	
+	<project id="2">
+		<title>CLIENT: IVISUAL DESIGN CO. </title>
+		<info>website(offline) / planning / design / coding / PV3D</info>
+		<hint>WEBSITE</hint>
+	</project>
+	<project id="3">
+		<title>CLIENT: SANSIN CONSTRUCTION CO.</title>
+		<info>flash app / design / coding / PV3D</info>
+		<hint>FLASH APP</hint>
+	</project>
+	<project id="4">
+		<title>CLIENT: TAIWAN NETWORK INFORMATION CENTER</title>
+		<info>interacitve installtion / planning / coding / camera touch detection</info>
+		<hint>INSTALLATION</hint>
+	</project>
+	<project id="5">
+		<title>CLIENT: EVERGREEN MARITIME MUSEUM</title>
+		<info>interacitve installtion / planning /design / coding / camera detection</info>
+		<hint>INSTALLATION</hint>
+	</project>
+	<project id="6">
+		<title>CLIENT: AU OPTRONICS CORP.</title>
+		<info>director app / coding / touch panel</info>
+		<hint>DIRECTOR APP</hint>
+	</project>
+	<project id="7">
+		<title>CLIENT: INDUSTRIAL TECHNOLOGY REAEARCH INSTITUTE</title>
+		<info>interacitve installtion / coding / camera detection</info>
+		<hint>INSTALLATION</hint>
+	</project>
+	<project id="8">
+		<title>CLIENT: NEWLAND DEVELOPERS GROUP</title>
+		<info>interacitve installtion / coding / interacitve lights</info>
+		<hint>INSTALLATION</hint>
+	</project>
+	<project id="9">
+		<title>CLIENT: AU OPTRONICS CORP.</title>
+		<info>flash app / coding / touch panel</info>
+		<hint>FLASH APP</hint>
+	</project>
+	<project id="10">
+		<title>CLIENT: SEEK.REC ANIMATION</title>
+		<info>website(offline) / design / coding</info>
+		<hint>WEBSITE</hint>
+	</project>
+	<!--experiments-->
+	<project id="11">
+		<title>NOUVEAU</title>
+		<info>processing / fractal</info>
+		<link><font face="Arial" size="10" color="#2BB6AD" LETTERSPACING="0" ><a>link coming soon...</a></font></link>
+		<hint>FRACTAL</hint>
+	</project>	
+	<project id="12">
+		<title>BLOSSOM</title>
+		<info>processing / particle system</info>
+		<link><font face="Arial" size="10" color="#2BB6AD" LETTERSPACING="0" ><a target="_blank" href="http://www.openprocessing.org/visuals/?visualID=52019">online demo</a></font></link>
+		<hint>PARTICLE SYSTEM</hint>
+	</project>	
+	<project id="13">
+		<title>INK FOREST</title>
+		<info>processing / fractal</info>
+		<link><font face="Arial" size="10" color="#2BB6AD" LETTERSPACING="0" ><a target="_blank" href="http://www.openprocessing.org/visuals/?visualID=52229">online demo</a></font></link>
+		<hint>FRACTAL</hint>
+	</project>
+	<project id="14">
+		<title>SUPERFORMULA PATTERN</title>
+		<info>processing / superformula</info>
+		<link><font face="Arial" size="10" color="#2BB6AD" LETTERSPACING="0" ><a target="_blank" href="http://www.openprocessing.org/visuals/?visualID=52337">online demo</a></font></link>
+		<hint>SUPERFORMULA</hint>
+	</project>
+</projectXML>

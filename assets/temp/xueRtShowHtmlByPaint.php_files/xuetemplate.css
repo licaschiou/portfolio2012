@@ -1,0 +1,109 @@
+@charset "utf-8";
+
+/* -------------------------------------------------- | 預設樣式 basic | */
+
+*{ margin:0; padding:0; font-size:12px; font-family: Arial, Helvetica, Sans-Serif, "微軟正黑體"; line-height:1.8em; }
+body{ color:#333; }
+ol,ul{ list-style:none; }
+table{ border-collapse:collapse; }
+th,td{ padding:3px; }
+th{ text-align:left; }
+img{ border:none; vertical-align:middle; }
+em{ font-style:normal; }
+
+/* 連結 */
+a{ blr:expression(this.onFocus=this.blur()); text-decoration:none; color:#333; }
+a:focus { outline: none; }
+a:hover{ text-decoration:underline; }
+
+big{ font-size:larger; }
+small{ font-size:smaller; }
+
+/* -------------------------------------------------- | 常用樣式 options | */
+
+.clr{ clear:both;}
+.hide{ display:none; }
+.bold{ font-weight:bold; }
+.flt{ float:left; }
+.frt{ float:right; }
+.deline{ text-decoration:line-through; }
+.unline{ text-decoration:underline; }
+.small{ font-size:9px; }
+.big{ font-size:13px; }
+.gray{ color:#999; }
+.red { color: #f00;}
+.blue{ color:#69F; }
+.black{ color:#fff; background-color:#000; }
+.sbh { font-weight:bold; font-size:12px; }
+.mbh { font-weight:bold; font-size:14px; }
+.lbh { font-weight:bold; font-size:15px; }
+.hr{ border:none; border-bottom:1px dotted #ccc; margin:10px 0px; }
+.mgbtm{ margin-bottom:5px; }
+.mgrt{ margin-right:5px; }
+.mglt{ margin-left:5px; }
+.mgtop{ margin-top:5px; }
+
+/* -------------------------------------------------- | 版面樣式 template | */
+
+.xxlog,
+.xxfoot,
+.xxmiddle{ width:100%; }
+
+.xxlog{ border-top:5px solid #000; }
+.xxfoot{ background-color:#000; color:#fff; }
+.xxfoot a{ color:#fff; }
+
+.mmlog{ width:980px; margin:0 auto; padding:0px 0px 10px; position:relative; }
+.mmhead{ width:980px; margin:0 auto; padding:0px 0px; }
+.mmbody{ width:980px; margin:0 auto; padding:0px 0px 80px; }
+.mmfoot{ width:980px; margin:0 auto; padding:20px 0px 30px; }
+
+
+/* -------------------------------------------------- | 登入區塊 sign up | */
+
+.logbtn{ float:right; width:140px; padding:0px 15px 2px; text-align:center; background:#000; color:#fff; font-size:11px; font-weight:bold; cursor:pointer; }
+.logform{ float:right; width:138px; padding:10px 15px 10px; text-align:center; background-color:#fff; border:1px solid #a0a0a0; position:absolute; right:0; top:19px; z-index:1000; }
+.logform .logginer span.fb_button_text{ font-size:10px; padding:0px 6px; line-height:1.4em; }/* facebook login button */
+.logform .loggined{ padding-top:5px; text-align:left; }
+		 .loggined .flt{ width:55px; }
+		 .loggined .frt{ width:80px; font-size:11px; word-break:break-all; word-wrap: break-word; }
+		 /*  word-break:break-all(safari), word-wrap:break-word(firefox) */
+		 
+		 
+
+/* -------------------------------------------------- | 網站選單 menu | */
+
+.mmhead{ max-height:98px; }
+.mmhead .logo{ background:url(../../images/logo.gif) no-repeat left top; width:325px; height:98px; cursor:pointer; }
+.mmhead .menu{ width:650px; }
+		.menu ul{ float:right; padding-top:24px; }
+		.menu ul li{ display:block; float:left; margin-left:40px; padding-left:5px; border-left:5px solid #fff; line-height:10px; }
+		.menu ul li.selup{ padding-left:5px; border-left:5px solid #000; }
+		.menu ul li label{ color:#999; font-size:11px; font-weight:bold; line-height:10px; }
+		.menu ul li a{ font-weight:bold; color:#000; }
+		
+		
+
+/* -------------------------------------------------- | 網站底部 footer | */
+
+.mmfoot td{ vertical-align:top; }
+.mmfoot .mmfoot_list li a{ color:#a0a0a0; }
+.mmfoot .mmfoot_list li a:hover{ color:#fff; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
